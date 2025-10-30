@@ -30,4 +30,4 @@
 - Hilman - Project Management
 - Arya - Backend Engineer
 - Mika - Frontend Engineer
-- Mika - Ai Engineer
+- Mikha - Ai Engineer
